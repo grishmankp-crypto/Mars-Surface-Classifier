@@ -1,0 +1,7 @@
+tensorflow-cpu
+keras
+numpy
+pillow
+matplotlib
+gradio
+scikit-learn
