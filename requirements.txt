@@ -1,5 +1,5 @@
 spaces
-tensorflow-cpu==2.15.0
+tensorflow-cpu==2.16.1
 numpy==1.26.4
 pillow==10.3.0
 matplotlib==3.8.4
